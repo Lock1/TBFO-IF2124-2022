@@ -1,2 +1,4 @@
 # TBFO-IF2124-2022
-Tugas Besar - IF2124 - Teori Bahasa Formal dan Otomata - Angkatan '20 / 2022
+**TBA** \
+IF Keos :white_check_mark: \
+Meng-keos-kan diri :white_check_mark: 
